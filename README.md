@@ -1,6 +1,6 @@
 # FortiGate Redundant Firewall Lab (Active-Passive HA Failover)
 
-A hands-on home lab demonstrating a **High Availability (HA) Active-Passive cluster** built with two FortiGate firewalls, Cisco 3560 switches, and VLAN segmentation — with a live failover test to prove redundancy actually works.
+A  lab demonstrating a **High Availability (HA) Active-Passive cluster** built with two FortiGate firewalls, Cisco 3560 switches, and VLAN segmentation — with a live failover test to prove redundancy actually works.
 
 ---
 
